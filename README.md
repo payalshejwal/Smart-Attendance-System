@@ -80,5 +80,3 @@ Security & Utilities
 * Mobile application version
 
 
-
-Just say the word ✨
