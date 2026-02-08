@@ -79,5 +79,4 @@ Security & Utilities
 * Face recognition support
 * Mobile application version
 
-<img width="682" height="814" alt="image" src="https://github.com/user-attachments/assets/cc4208db-0be2-4514-9d4f-35886bb6050c" />
 
